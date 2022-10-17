@@ -1,0 +1,61 @@
+[
+    {
+      "question": "What type of a language is HTML?",
+      "choice1": "Network Protocol",
+      "choice2": "Programming Language",
+      "choice3": "Scripting Language",
+      "choice4": "Markup Language",
+      "answer": 4
+  
+    },
+    {
+      "question": "What should be the first tag in any HTML Document?",
+      "choice1": "<html>",
+      "choice2": " <!doctype html>",
+      "choice3": "<title>",
+      "choice4": "<head>",
+      "answer": 2
+    },
+    {
+      "question": "What tag is used to display a picture in a HTML page?",
+      "choice1": "Picture",
+      "choice2": "Image",
+      "choice3": "Src",
+      "choice4": "Img",
+      "answer": 4
+    },
+    {
+      "question": "HTML are web pages read and rendered by?",
+      "choice1": "Compiler",
+      "choice2": "Interpreter",
+      "choice3": "Web browser",
+      "choice4": "Server",
+      "answer": 3
+    },
+    {
+      "question": "What is the correct HTML tag for inserting a line break?",
+      "choice1": "<break/>",
+      "choice2": "<br/>",
+      "choice3": "<nbsp>",
+      "choice4": "<lb/>",
+      "answer": 2
+    },
+    {
+      "question": "HTML documents are saved in?",
+      "choice1": "Special Binary Format",
+      "choice2": "Machine Language Code",
+      "choice3": "ASCII text",
+      "choice4": "None of the Above",
+      "answer": 4
+    },
+    {
+      "question": "Which tag creates a check box for a form in HTML??",
+      "choice1": "<input type='checkbox'>",
+      "choice2": "<checkbox>",
+      "choice3": " <input checkbox>",
+      "choice4": " <input=checkbox>",
+      "answer": 1
+    }
+  
+  ]
+  
